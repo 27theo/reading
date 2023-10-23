@@ -1,2 +1,2 @@
 # reading
-A reading-and-resource list for both personal use and sharing
+A reading-and-resource list for personal use and sharing.
