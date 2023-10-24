@@ -14,6 +14,9 @@ By Krzysztof Kowalczyk. A collection of advice from his experience working on hi
 #### Computers Are Bad. [[link]](https://computer.rip)
 By J.B. Crawford. A newsletter dedicated to 'computer history, computer security and "constructive" technology criticism'.
 
+#### Writing Games. [[link]](https://writing-games.com)
+By Andruid (pseudonym). A blog and collection of resources concerning MUDs, or multi-user-dungeons. Achaea, the game for which my early repositories contain 'mods', is an example of an MUD. 
+
 ## Projects of interest
 
 #### Amiga ASCII Art. [[link]](https://blog.glyphdrawing.club/amiga-ascii-art/)
