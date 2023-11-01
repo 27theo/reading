@@ -9,6 +9,9 @@ By Patrick McKenzie. The most popular post on his blog called Kalzumeus. Long fo
 #### Lessons learned from 15 years of SumatraPDF: an open-source Windows app. [[link]](https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html)
 By Krzysztof Kowalczyk. A collection of advice from his experience working on his mostly-2-man project, the SumatraPDF PDF reader. Tips on open-source, solo work and good management practice. 
 
+#### The Laws of Online World Design. [[link]](https://www.raphkoster.com/games/laws-of-online-world-design/the-laws-of-online-world-design/)
+By Raph Koster. A series of interesting observations about the design and upkeep of online worlds.
+
 ## Blogs of interest
 
 #### Computers Are Bad. [[link]](https://computer.rip)
