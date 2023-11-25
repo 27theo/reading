@@ -24,3 +24,6 @@ By Andruid (pseudonym). A blog and collection of resources concerning MUDs, or m
 
 #### Amiga ASCII Art. [[link]](https://blog.glyphdrawing.club/amiga-ascii-art/)
 By Heikki Lotvonen. A graphic design bachelor's thesis on text art set in the Amiga computer's font. An interesting thesis from start to end, translated from the original Finnish. The website hosts other ventures into ASCII art and its generation. 
+
+#### The ØMQ Documentation. [[link]](https://zguide.zeromq.org)
+By Pieter Hintjens. The documentation for the ZeroMQ asynchronous messaging library. Pleasing to read -- a great example of friendly documentation -- especially its careful structure, featuring a [gestalt](https://x.com/lzsthw/status/1704738830270562514?s=20) to open.
