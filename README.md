@@ -1,6 +1,10 @@
 # reading
 A reading-and-resource list for personal use and sharing.
 
+| :warning: · ARCHIVED                      |
+|:------------------------------------------|
+| No longer maintained. Maybe one day.      |
+
 ## Posts of interest
 
 #### Don't Call Yourself A Programmer, And Other Career Advice. [[link]](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
